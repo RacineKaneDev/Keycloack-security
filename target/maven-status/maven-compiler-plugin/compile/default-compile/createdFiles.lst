@@ -1,0 +1,16 @@
+com\kadiri\keycloak\StockMsApplication.class
+com\kadiri\keycloak\config\ApplicationConfig.class
+com\kadiri\keycloak\exception\ApiException.class
+com\kadiri\keycloak\exception\EntityExistsException.class
+com\kadiri\keycloak\products\services\ProductService.class
+com\kadiri\keycloak\products\dto\requests\ProductDtoRequest.class
+com\kadiri\keycloak\exception\EntityNotFoundException.class
+com\kadiri\keycloak\products\services\impl\ProductServiceImpl.class
+com\kadiri\keycloak\products\dto\responses\ProductDtoResponse.class
+com\kadiri\keycloak\products\entities\ProductEntity.class
+com\kadiri\keycloak\products\mapper\ProductsMapperImpl.class
+com\kadiri\keycloak\products\controller\ProductController.class
+com\kadiri\keycloak\products\repository\ProductRepository.class
+com\kadiri\keycloak\exception\ApiExceptionHandler.class
+com\kadiri\keycloak\products\mapper\ProductsMapper.class
+com\kadiri\keycloak\products\entities\ProductEntity$ProductEntityBuilder.class
